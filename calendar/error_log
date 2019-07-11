@@ -1,0 +1,12 @@
+[10-Jan-2017 06:28:52 UTC] PHP Warning:  mysql_pconnect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/trilasoft93324/intranet.trilasoft.com/calendar/index.php on line 48
+[10-Jan-2017 06:28:52 UTC] PHP Warning:  mysql_pconnect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/trilasoft93324/intranet.trilasoft.com/calendar/index.php on line 48
+[10-Jan-2017 06:28:52 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/trilasoft93324/intranet.trilasoft.com/calendar/index.php on line 49
+[10-Jan-2017 06:28:52 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/trilasoft93324/intranet.trilasoft.com/calendar/index.php on line 51
+[10-Jan-2017 10:22:58 UTC] PHP Warning:  mysql_pconnect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/trilasoft93324/intranet.trilasoft.com/calendar/index.php on line 48
+[10-Jan-2017 10:22:58 UTC] PHP Warning:  mysql_pconnect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/trilasoft93324/intranet.trilasoft.com/calendar/index.php on line 48
+[10-Jan-2017 10:22:58 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/trilasoft93324/intranet.trilasoft.com/calendar/index.php on line 49
+[10-Jan-2017 10:22:58 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/trilasoft93324/intranet.trilasoft.com/calendar/index.php on line 51
+[10-Jan-2017 10:23:04 UTC] PHP Warning:  mysql_pconnect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/trilasoft93324/intranet.trilasoft.com/calendar/index.php on line 48
+[10-Jan-2017 10:23:04 UTC] PHP Warning:  mysql_pconnect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/trilasoft93324/intranet.trilasoft.com/calendar/index.php on line 48
+[10-Jan-2017 10:23:04 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/trilasoft93324/intranet.trilasoft.com/calendar/index.php on line 49
+[10-Jan-2017 10:23:04 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, boolean given in /home/trilasoft93324/intranet.trilasoft.com/calendar/index.php on line 51

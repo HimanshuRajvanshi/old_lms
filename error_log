@@ -1,0 +1,44 @@
+[11-Dec-2018 11:22:54 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 181
+[14-Dec-2018 13:24:48 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 181
+[14-Dec-2018 13:25:29 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 181
+[17-Dec-2018 10:56:01 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 181
+[17-Dec-2018 13:06:57 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 469
+[17-Dec-2018 13:07:27 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 469
+[17-Dec-2018 13:07:39 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 469
+[17-Dec-2018 13:08:01 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 469
+[17-Dec-2018 13:22:53 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 181
+[17-Dec-2018 18:34:11 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 181
+[17-Dec-2018 18:35:27 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 181
+[18-Dec-2018 10:22:53 Asia/Kolkata] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 615
+[18-Dec-2018 10:22:53 Asia/Kolkata] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 616
+[18-Dec-2018 10:23:03 Asia/Kolkata] PHP Deprecated:  mysql_escape_string(): This function is deprecated; use mysql_real_escape_string() instead. in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 615
+[18-Dec-2018 10:23:03 Asia/Kolkata] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 616
+[18-Dec-2018 10:32:18 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 181
+[18-Dec-2018 11:13:09 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 469
+[18-Dec-2018 11:41:15 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 181
+[18-Dec-2018 06:11:36 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/trilasoft93324/intranet.trilasoft.com/editleave.php on line 527
+[18-Dec-2018 13:10:40 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 181
+[18-Dec-2018 13:11:28 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 181
+[18-Dec-2018 17:55:24 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 469
+[18-Dec-2018 12:46:12 UTC] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trilasoft93324/intranet.trilasoft.com/passwordproc.php on line 7
+[18-Dec-2018 12:49:51 UTC] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trilasoft93324/intranet.trilasoft.com/passwordproc.php on line 7
+[18-Dec-2018 19:19:44 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 181
+[19-Dec-2018 09:53:37 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 181
+[19-Dec-2018 12:54:03 Asia/Kolkata] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 228
+[19-Dec-2018 12:54:03 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 257
+[19-Dec-2018 15:47:11 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 469
+[19-Dec-2018 15:48:04 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 469
+[19-Dec-2018 15:48:17 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 469
+[19-Dec-2018 18:40:38 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 469
+[19-Dec-2018 19:10:06 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 181
+[19-Dec-2018 19:11:49 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 181
+[19-Dec-2018 13:42:55 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/trilasoft93324/intranet.trilasoft.com/editleave.php on line 527
+[19-Dec-2018 13:43:12 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/trilasoft93324/intranet.trilasoft.com/editleave.php on line 527
+[20-Dec-2018 10:06:09 Asia/Kolkata] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 228
+[20-Dec-2018 10:06:09 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 257
+[20-Dec-2018 10:06:23 Asia/Kolkata] PHP Deprecated:  mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 228
+[20-Dec-2018 10:06:23 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 257
+[20-Dec-2018 17:48:23 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 181
+[20-Dec-2018 18:18:34 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 469
+[20-Dec-2018 18:19:03 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 469
+[20-Dec-2018 18:29:22 Asia/Kolkata] PHP Warning:  mysql_close() expects parameter 1 to be resource, object given in /home/trilasoft93324/intranet.trilasoft.com/process.php on line 469
